@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AzureSensorMonitor</string>
+    <string name="fragment__sensor_monitor__no_accelerometer_toast__text">No acceleroemer has beed found.</string>
+    <string name="fragment__sensor_monitor_acceleration_readings_header__text">Current acceleration [m/s\u00B2]</string>
+    <string name="stop">STOP</string>
+    <string name="last_updated">Last updated (UTC)</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="enter_device_id">Enter device ID</string>
+    <string name="connect">Connect</string>
+    <string name="init">-</string>
+</resources>
